@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home Alert</string>
+    <string name="join_home">Join Home</string>
+    <string name="create_home">Create Home</string>
+    <string name="company_name">Braginnova Apps</string>
+    <string name="version_number">v 1.0.1</string>
+    <string name="emptyHomeText">You have no homes setup.\nCreate a home or join an existing home with the home key shared to you.</string>
+</resources>
