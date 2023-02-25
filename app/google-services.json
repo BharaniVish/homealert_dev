@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919224746683",
+    "project_id": "home-alert-braginnova",
+    "storage_bucket": "home-alert-braginnova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919224746683:android:2510588656415924dd1f9e",
+        "android_client_info": {
+          "package_name": "com.braginnova.homealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919224746683-pqqnh407ao6kriioo7a5jvmlbottsbjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqqX3DuiB8PumoHqtU6-Lr0-WeOxMBbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919224746683-pqqnh407ao6kriioo7a5jvmlbottsbjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
